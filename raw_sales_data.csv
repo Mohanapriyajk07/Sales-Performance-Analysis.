@@ -1,0 +1,51 @@
+product_id,sales_date,sales_rep,region,sales_amount,quantity_sold,product_category,unit_cost,unit_price,customer_type,discount,payment_method,sales_channel
+P001,2023-01-05,Alice,East,12000,4,Electronics,2000,3000,Retail,0.10,Credit Card,Online
+P002,2023-01-07,Bob,West,8000,5,Clothing,900,1600,Wholesale,0.05,Cash,Retail
+P003,2023-01-10,Charlie,North,15000,3,Electronics,3500,5000,Retail,0.15,Debit Card,Online
+P004,2023-01-12,David,South,6000,6,Home Decor,700,1200,Retail,0.08,UPI,Retail
+P005,2023-01-15,Eve,East,20000,5,Furniture,2500,4500,Wholesale,0.12,Credit Card,Online
+P006,2023-01-18,Alice,West,9000,3,Clothing,1200,1800,Retail,0.05,Cash,Retail
+P007,2023-01-20,Bob,North,11000,4,Electronics,2200,3200,Retail,0.10,Debit Card,Online
+P008,2023-01-22,Charlie,South,7000,5,Home Decor,800,1500,Retail,0.07,UPI,Retail
+P009,2023-01-25,David,East,16000,4,Furniture,3000,4500,Wholesale,0.10,Credit Card,Online
+P010,2023-01-28,Eve,West,5000,5,Clothing,600,1200,Retail,0.05,Cash,Retail
+P011,2023-02-02,Alice,North,14000,4,Electronics,2800,4000,Retail,0.12,Debit Card,Online
+P012,2023-02-04,Bob,South,6500,5,Home Decor,700,1300,Retail,0.06,UPI,Retail
+P013,2023-02-06,Charlie,East,18000,6,Furniture,2500,4000,Wholesale,0.15,Credit Card,Online
+P014,2023-02-08,David,West,7200,4,Clothing,1000,1800,Retail,0.08,Cash,Retail
+P015,2023-02-10,Eve,North,15500,5,Electronics,2600,3600,Retail,0.10,Debit Card,Online
+P016,2023-02-12,Alice,South,8200,4,Home Decor,900,1600,Retail,0.07,UPI,Retail
+P017,2023-02-15,Bob,East,21000,6,Furniture,3000,4500,Wholesale,0.12,Credit Card,Online
+P018,2023-02-17,Charlie,West,9500,5,Clothing,1100,1900,Retail,0.05,Cash,Retail
+P019,2023-02-20,David,North,17000,4,Electronics,2900,4300,Retail,0.10,Debit Card,Online
+P020,2023-02-22,Eve,South,6800,4,Home Decor,800,1500,Retail,0.06,UPI,Retail
+P021,2023-03-02,Alice,East,19000,5,Furniture,2800,4200,Wholesale,0.14,Credit Card,Online
+P022,2023-03-04,Bob,West,7800,4,Clothing,900,1700,Retail,0.07,Cash,Retail
+P023,2023-03-06,Charlie,North,14500,4,Electronics,2600,3800,Retail,0.11,Debit Card,Online
+P024,2023-03-08,David,South,6200,5,Home Decor,700,1300,Retail,0.05,UPI,Retail
+P025,2023-03-10,Eve,East,22000,6,Furniture,3200,4800,Wholesale,0.13,Credit Card,Online
+P026,2023-03-12,Alice,West,8600,5,Clothing,1000,1800,Retail,0.06,Cash,Retail
+P027,2023-03-15,Bob,North,16500,5,Electronics,2700,3900,Retail,0.10,Debit Card,Online
+P028,2023-03-17,Charlie,South,7000,4,Home Decor,800,1500,Retail,0.07,UPI,Retail
+P029,2023-03-20,David,East,17500,5,Furniture,2900,4200,Wholesale,0.12,Credit Card,Online
+P030,2023-03-22,Eve,West,9200,4,Clothing,1100,1900,Retail,0.05,Cash,Retail
+P031,2023-03-24,Alice,North,15000,5,Electronics,2500,3600,Retail,0.09,Debit Card,Online
+P032,2023-03-26,Bob,South,6400,4,Home Decor,700,1400,Retail,0.06,UPI,Retail
+P033,2023-03-28,Charlie,East,20500,6,Furniture,3100,4600,Wholesale,0.15,Credit Card,Online
+P034,2023-03-30,David,West,8300,5,Clothing,1000,1700,Retail,0.07,Cash,Retail
+P035,2023-04-02,Eve,North,16000,4,Electronics,2800,4200,Retail,0.10,Debit Card,Online
+P036,2023-04-04,Alice,South,7100,5,Home Decor,850,1500,Retail,0.06,UPI,Retail
+P037,2023-04-06,Bob,East,22500,6,Furniture,3300,4900,Wholesale,0.14,Credit Card,Online
+P038,2023-04-08,Charlie,West,8800,4,Clothing,1050,1800,Retail,0.05,Cash,Retail
+P039,2023-04-10,David,North,17000,5,Electronics,2900,4100,Retail,0.11,Debit Card,Online
+P040,2023-04-12,Eve,South,6900,4,Home Decor,800,1500,Retail,0.07,UPI,Retail
+P041,2023-04-14,Alice,East,19500,5,Furniture,2800,4300,Wholesale,0.12,Credit Card,Online
+P042,2023-04-16,Bob,West,9100,5,Clothing,1100,1900,Retail,0.06,Cash,Retail
+P043,2023-04-18,Charlie,North,15500,4,Electronics,2600,3800,Retail,0.09,Debit Card,Online
+P044,2023-04-20,David,South,7300,5,Home Decor,850,1500,Retail,0.07,UPI,Retail
+P045,2023-04-22,Eve,East,23000,6,Furniture,3400,5000,Wholesale,0.15,Credit Card,Online
+P046,2023-04-24,Alice,West,8700,4,Clothing,1000,1800,Retail,0.06,Cash,Retail
+P047,2023-04-26,Bob,North,16500,5,Electronics,2700,3900,Retail,0.10,Debit Card,Online
+P048,2023-04-28,Charlie,South,7200,4,Home Decor,800,1500,Retail,0.07,UPI,Retail
+P049,2023-04-30,David,East,18500,5,Furniture,3000,4300,Wholesale,0.12,Credit Card,Online
+P050,2023-05-02,Eve,West,9400,5,Clothing,1150,1900,Retail,0.05,Cash,Retail
