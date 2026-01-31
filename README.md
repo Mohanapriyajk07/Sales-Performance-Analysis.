@@ -4,6 +4,7 @@
 This project analyzes sales data to uncover business insights related to revenue, profit, regions, products, and sales representatives.
 
 ## 🧰 Tools & Technologies
+- MS Excel
 - Python (Pandas, NumPy)
 - SQL (analysis logic)
 - Power BI (Dashboard & visualization)
@@ -14,9 +15,6 @@ This project analyzes sales data to uncover business insights related to revenue
 - Analyzed monthly revenue trends
 - Evaluated sales rep performance
 - Calculated profit and profit margins
-
-## 📊 Dashboard Preview
-(Attach screenshots here)
 
 ## 📁 Dataset
 Sales dataset containing product, sales, customer, and financial details.
